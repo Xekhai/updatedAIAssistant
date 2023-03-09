@@ -1,0 +1,2 @@
+# updatedAIAssistant
+ The article provides a guide on building an AI chatbot using the GPT-3.5-Turbo model, NodeJS, Express, and other required modules. It covers setting up the environment by installing necessary modules, importing and setting up the OpenAI API client, defining an endpoint to handle incoming requests, and starting the Express app to listen on port 3000. By the end of the article, the reader should be able to build a basic framework for their own AI chatbot.
