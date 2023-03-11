@@ -1,7 +1,10 @@
 # Build your own ChatGPT
- The article provides a guide on building an AI chatbot using the GPT-3.5-Turbo model, NodeJS, Express, and other required modules. It covers setting up the environment by installing necessary modules, importing and setting up the OpenAI API client, defining an endpoint to handle incoming requests, and starting the Express app to listen on port 3000. 
-By the end of the article, the reader should be able to build a basic framework for their own AI chatbot.
+Ready to start building with AI? With the power of the new GPT-3.5turbo model, the same model that powers chat-GPT itself and basic coding knowledge, you can build your very own chatbot! This article will guide you through the entire process of setting up the environment and testing the AI assistant, all while using just NodeJS! By the end of this article, you'll have a basic framework for your own AI chatbot (Your own custom chat-GPT). So, let's dive in and unleash the power of Artificial Intelligence!
 
+The article referenced provides a guide on building an AI chatbot using the GPT-3.5-Turbo model, NodeJS, Express, and other required modules. It covers setting up the environment by installing necessary modules, importing and setting up the OpenAI API client, defining an endpoint to handle incoming requests, and starting the Express app to listen on port 3000. 
+
+By the end of the article, the reader should be able to build a basic framework for their own AI chatbot.
+#
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
