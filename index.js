@@ -1,14 +1,13 @@
 const express = require("express");
 const openAI = require("openai");
+// Importing the body-parser module to parse incoming request bodies
+const bp = require("body-parser");
 
 // Importing the dotenv module to access environment variables
 require("dotenv").config();
 
 //chatArray[Acts like a storage]
 const chatArray = [{"role": "system", "content": "You are a helpful assistant."}];
-
-// Importing the body-parser module to parse incoming request bodies
-const bp = require("body-parser");
 
 // Creating a new Express app
 const app = express();
